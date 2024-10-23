@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReactVolley/static/css/main.c01decef.css",
+    "main.js": "/ReactVolley/static/js/main.8d2af250.js",
+    "static/js/453.6d0e4ec0.chunk.js": "/ReactVolley/static/js/453.6d0e4ec0.chunk.js",
+    "static/media/fond.jpg": "/ReactVolley/static/media/fond.e2bd35326807cc3a8bbf.jpg",
+    "index.html": "/ReactVolley/index.html",
+    "main.c01decef.css.map": "/ReactVolley/static/css/main.c01decef.css.map",
+    "main.8d2af250.js.map": "/ReactVolley/static/js/main.8d2af250.js.map",
+    "453.6d0e4ec0.chunk.js.map": "/ReactVolley/static/js/453.6d0e4ec0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c01decef.css",
+    "static/js/main.8d2af250.js"
+  ]
+}
